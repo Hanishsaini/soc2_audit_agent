@@ -1,9 +1,4 @@
-Perfect—that’s exactly how it should be. Here’s your **complete, clean, copy-paste-ready `README.md`** (no fluff, product-focused, recruiter + founder friendly):
-
----
-
-```markdown
-# 🛡️ AI SOC2 Audit Agent
+🛡️ AI SOC2 Audit Agent
 
 AI-powered platform to analyze SOC2 reports, detect compliance gaps, and generate actionable recommendations in minutes.
 
