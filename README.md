@@ -190,19 +190,3 @@ Pull requests are welcome. For major changes, open an issue first.
 ## 📄 License
 
 MIT License
-
-```
-
----
-
-This is:
-- clean ✅  
-- professional ✅  
-- not overhyped ✅  
-- easy to read ✅  
-
-If you want next level (for real impact):
-👉 I can add **GitHub badges + demo GIF + “why this matters” section** to make it stand out to recruiters/YC
-
-Just say: **“make it standout”** 🚀
-```
